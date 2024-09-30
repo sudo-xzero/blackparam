@@ -11,4 +11,6 @@ To install BlackParam, follow these steps:
    pip install -r requirements.txt
    ```
    ## command to use the tool
-   ### python3 blackparam.py -d target.com
+   ```bash
+   python3 blackparam.py -d target.com
+   ```
