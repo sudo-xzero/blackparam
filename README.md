@@ -8,7 +8,7 @@ To install BlackParam, follow these steps:
    ```bash
    git clone https://github.com/sudo-xzero/blackparam.git
    cd blackparam
-   pip install .
+   pip install -r requirements.txt
 
     command to use the tool
     python3 blackparam.py -d target.com
