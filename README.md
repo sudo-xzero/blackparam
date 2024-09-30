@@ -9,3 +9,6 @@ To install BlackParam, follow these steps:
    git clone https://github.com/sudo-xzero/blackparam.git
    cd blackparam
    pip install .
+
+   '''python
+   python3 blackparam.py -d target.com
