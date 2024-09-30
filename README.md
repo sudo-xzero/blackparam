@@ -10,5 +10,5 @@ To install BlackParam, follow these steps:
    cd blackparam
    pip install .
 
-   # command to use the tool
-   ## python3 blackparam.py -d target.com
+    command to use the tool
+    python3 blackparam.py -d target.com
