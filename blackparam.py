@@ -13,7 +13,8 @@ print(Fore.RED + """
 ██╔══██╗██║     ██╔══██║██║     ██╔═██╗ ██╔═══╝ ██╔══██║██╔══██╗██╔══██║██║╚██╔╝██║
 ██████╔╝███████╗██║  ██║╚██████╗██║  ██╗██║     ██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║
 ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-""" + Style.RESET_ALL)
+""" 
++ Fore.BLUE +"@sudo-xzero" + Style.RESET_ALL)
 
 parser = argparse.ArgumentParser(description="This tool is used to extract URLs from the web archive.")
 parser.add_argument("-d", "--domain", help="The target domain", required=True)
